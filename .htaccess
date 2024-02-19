@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.pervox\.online [NC]
+RewriteRule ^(.*)$ https://pervox.online/$1 [L,R=301]

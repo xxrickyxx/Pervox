@@ -1,0 +1,14 @@
+<Files user.json>
+    Order deny,allow
+    Deny from all
+</Files>
+
+<Files server_list.json>
+    Order deny,allow
+    Deny from all
+</Files>
+
+<Files blockchain_verify.json>
+    Order deny,allow
+    Deny from all
+</Files>

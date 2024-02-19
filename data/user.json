@@ -1,0 +1,163 @@
+[
+    {
+        "id": 1,
+        "username": "ricky",
+        "email": "ricky",
+        "hashed_password": "$2y$10$B3AGUWMtw5mzPgBVYJPyU.f4xRoTgOu8HWRx9GJ4pXyFUDjSxUHDK",
+        "img": "8J+RqOKAjfCfjbM="
+    },
+    {
+        "id": 2,
+        "username": "sparacinoriccardo58961",
+        "email": "sparacinoriccardo58961",
+        "hashed_password": "$2y$10$31DOMedCADdvOWB9KDiHSeLKl9IRfg0EDzphGbbl2qpKqdg7XIWr6",
+        "img": "4pig77iP"
+    },
+    {
+        "id": 3,
+        "username": "xxrickyxx3870",
+        "email": "xxrickyxx3870",
+        "hashed_password": "$2y$10$LoBzlSRqKPA4oIIe8rqQFeJPEQ6e5MtDqBRrVsp\/BpHd2vGtACxjq",
+        "img": "4pig77iP"
+    },
+    {
+        "id": 4,
+        "username": "rickyplus75175",
+        "email": "rickyplus75175",
+        "hashed_password": "$2y$10$11y5iIvk1SgEhqK5UuX8L.qGZqVgoAMRPDNWL0gMLL39.Y8tJNbva",
+        "img": "8J+nm+KAjeKZgu+4jw=="
+    },
+    {
+        "id": 5,
+        "username": "sparacinoriccardo89510",
+        "email": "sparacinoriccardo89510",
+        "hashed_password": "$2y$10$MrG6nkLDgPwqiQTSnaPS6OSACX9QpxukcpucKLcPJaJewwhd4dWtK",
+        "img": "4pig77iP"
+    },
+    {
+        "id": 6,
+        "username": "sparacinoriccardo281410",
+        "email": "sparacinoriccardo281410",
+        "hashed_password": "$2y$10$6ULLZBjrLF5FOqpyv1QcxuP.TgVd2nUf22J.w3RFO\/zMRZZH5Ug3e",
+        "img": "4pig77iP"
+    },
+    {
+        "id": 7,
+        "username": "sparacinoriccardo5547633",
+        "email": "sparacinoriccardo5547633",
+        "hashed_password": "$2y$10$0e9mQol5b72GjCRzMWsAqegQ2SGjmweXzbSJnXl2tvj0kTSOup1ci",
+        "img": "4pig77iP"
+    },
+    {
+        "id": 8,
+        "username": "sparacinoriccardo39891",
+        "email": "sparacinoriccardo39891",
+        "hashed_password": "$2y$10$2BkU4T0Dnzdrgbahk8xrJOq0z\/2o14mcQqkSF4.9.v2ybZl1R0aWe",
+        "img": "4pig77iP"
+    },
+    {
+        "id": 9,
+        "username": "sparacinoriccardo97603",
+        "email": "sparacinoriccardo97603",
+        "hashed_password": "$2y$10$mcqrwV0G0YSOg3XXOqn2buEx2uPv8JT04Md3naOc.pTTHyOFoMFMi",
+        "img": "8J+Sgw=="
+    },
+    {
+        "id": 10,
+        "username": "sparacinoriccardo29191",
+        "email": "sparacinoriccardo29191",
+        "hashed_password": "$2y$10$a8SvStGbH2z.KP5v\/.ftW.Jck8Y0evLhbOOahqk0X6g65KZ91vF72",
+        "img": "4pig77iP"
+    },
+    {
+        "id": 11,
+        "username": "sparacinoriccardo26536",
+        "email": "sparacinoriccardo26536",
+        "hashed_password": "$2y$10$5pHAF\/db62rOD2zJj8NEJO4bsMwmxtD4Pxrle.lWjrBbB4b06.FPa",
+        "img": "4pig77iP"
+    },
+    {
+        "id": 12,
+        "username": "rickyssss728502",
+        "email": "rickyssss728502",
+        "hashed_password": "$2y$10$2zzJGBdwoxieaf.3YPc8fO8iMrk4JvzLfr6\/f1cQ4U.Oki1yDQFV6",
+        "img": "4pig77iP"
+    },
+    {
+        "id": 13,
+        "username": "rickyg179429",
+        "email": "rickyg179429",
+        "hashed_password": "$2y$10$B3AGUWMtw5mzPgBVYJPyU.f4xRoTgOu8HWRx9GJ4pXyFUDjSxUHDK",
+        "img": "4pig77iP"
+    },
+    {
+        "id": 14,
+        "username": "alieno332459",
+        "email": "alieno332459",
+        "hashed_password": "$2y$10$9y951tVeGHa8JICDUJAP9ON8GVyyZ34UksSn1zdCzwpDa8MTLibrK",
+        "img": "8J+klg=="
+    },
+    {
+        "id": 15,
+        "username": "alieno173691",
+        "email": "alieno173691",
+        "hashed_password": "$2y$10$wWrW7mfO28SPPXvMyZN6D.YxamzH\/sgc\/wwlf\/1Uf6mWBUk8FGzbu",
+        "img": "8J+klg=="
+    },
+    {
+        "id": 16,
+        "username": "alieno40940",
+        "email": "alieno40940",
+        "hashed_password": "$2y$10$oJgVW6lg8ngUgfNa56qu0.u7SPnmLfv8IgoGDF4JZCJO\/BI.GrZum",
+        "img": "8J+klg=="
+    },
+    {
+        "id": 17,
+        "username": "alieno666646",
+        "email": "alieno666646",
+        "hashed_password": "$2y$10$P2HxZeK7d5WqaGlCNlaT..9FJ4V5vfqgowBMeFt87g5XpW4Q2HV5y",
+        "img": "8J+klg=="
+    },
+    {
+        "id": 18,
+        "username": "alieno323024",
+        "email": "alieno323024",
+        "hashed_password": "$2y$10$3VcFZENG8ui.bNnXDH5ztefIPGh73yhDddZCk473W5AWKjEdxzznm",
+        "img": "8J+klg=="
+    },
+    {
+        "id": 19,
+        "username": "alieno833642",
+        "email": "alieno833642",
+        "hashed_password": "$2y$10$UZSkamC6F0hR32sNkWrOO.l3PPC\/Xwarf4dIcMJAKnoN.wGfxw1Dm",
+        "img": "8J+klg=="
+    },
+    {
+        "id": 20,
+        "username": "alieno719651",
+        "email": "alieno719651",
+        "hashed_password": "$2y$10$JA4WNdgU8UUK\/ODwGgPkFuXS35sy.7vWaVTJIY2EPPPI9lu\/qJhXO",
+        "img": "8J+klg=="
+    },
+    {
+        "id": 21,
+        "username": "xadu",
+        "email": "xadu",
+        "hashed_password": "$2y$10$B3AGUWMtw5mzPgBVYJPyU.f4xRoTgOu8HWRx9GJ4pXyFUDjSxUHDK",
+        "img": "4pig77iP"
+    },
+    {
+        "id": 22,
+        "username": "ale939496",
+        "email": "ale939496",
+        "hashed_password": "$2y$10$BB\/DN.PFRs9XB1G9DPMfYeO.Wc2acNTy3\/IaKrWKRpNd9hWZ35jNu",
+        "img": "8J+Xuu+4jw=="
+    },
+    {
+        "id": 23,
+        "username": "enri45465",
+        "email": "enri45465",
+        "hashed_password": "$2y$10$2Ujlu3vJnYOUJE.TTBU\/JOwkrFJlJolQ2XV6tiPkSJi9ErQWEALbu",
+        "img": "4pig77iP"
+    }
+]
