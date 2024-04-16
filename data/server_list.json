@@ -1,0 +1,15 @@
+{
+    "servers": [
+        {
+            "name": "Server B",
+            "ip": "pervox.online",
+            "port": 443
+        },
+        {
+            "name": "Server C",
+            "ip": "51.68.224.221",
+            "port": 443
+        }
+
+    ]
+}

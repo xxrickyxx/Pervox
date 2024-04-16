@@ -1,0 +1,171 @@
+/* Stile per l'icona di informazioni */
+.info-icon {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Stile per la finestra di informazioni */
+.finestra-informazioni {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    max-width: 800px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    z-index: 1000;
+}
+
+/* Stile per il pulsante di chiusura */
+.finestra-informazioni button {
+    display: block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+
+/* Aggiungi questo stile CSS per gestire il testo dell'indirizzo */
+.address-text {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+h3 {
+    font-size: 14px;
+}
+div#aut {
+    text-transform: uppercase;
+}
+span.username {
+    text-transform: uppercase;
+}
+.box-footer.box-comments {
+    max-height: 200px !important;
+    overflow-y: scroll;
+}
+/* Stile per il popup */
+#popup {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 30px; /* Aumenta il padding per rendere il popup più grande */
+  background-color: #fff;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2); /* Aumenta il box-shadow per una maggiore ombreggiatura */
+  /* Imposta un z-index altissimo */
+  z-index: 9999;
+}
+
+/* Stile per le faccine emoticon */
+.emoticon {
+  cursor: pointer;
+  padding: 3px; /* Aumenta il padding per rendere le emoticon più grandi */
+  font-size: 13px; /* Imposta la dimensione del font per rendere le emoticon più grandi */
+}
+
+/* Stile per la div delle emoticon all'interno del popup */
+#emoticonsContainer {
+  max-height: 150px;
+  overflow-y: auto;
+  margin-top: 10px;
+}
+
+/* Stile per l'anteprima del post */
+#previewContainer {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#postPreview {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+/* Stile per l'anteprima del video YouTube */
+.youtube-preview {
+  width: 100%;
+  height: 150px; /* Dimensioni ridotte per l'anteprima del video */
+  background-color: #f1f1f1;
+}
+
+.image-container {
+  margin-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.image-item {
+  width: 80px; /* Imposta la larghezza desiderata delle immagini */
+  height: 80px; /* Imposta l'altezza desiderata delle immagini */
+}
+
+.image-item img {
+  width: 70%;
+  height: 70%;
+  object-fit: cover; /* Per mantenere l'aspetto corretto delle immagini */
+}
+
+nav.navbar.navbar-white.navbar-fixed-top {
+    max-height: 75px !important;
+}
+
+span.pull-right.text-muted.like-count {
+    margin-top: -25px;
+}
+
+.box.profile-info.n-border-top {
+    width: 170px;
+}
+
+iframe {
+    width: 100%;
+}
+
+@media screen and (max-width: 800px) {
+iframe {
+    max-width: 400px !important;
+  }
+}
+
+        .navbar {
+            background-color: #333;
+        }
+
+        .navbar-brand {
+            color: #fff;
+            font-size: 20px;
+        }
+
+        .navbar-nav {
+            margin-left: auto;
+        }
+
+        .nav-item {
+            padding: 0 20px;
+        }
+
+        .nav-link {
+            color: #fff;
+            font-size: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        .fa {
+            margin-bottom: 5px;
+        }
